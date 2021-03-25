@@ -24,7 +24,7 @@ Here you can find some of projects.
 
 | Project name                                                 | Description                                                  | Technologies                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
+| [Keksobooking](https://github.com/kai-shoo/164863-keksobooking-22)     | Simple app for searching and posting apartment ads  | JS, Webpack |
 | [Mapty](https://github.com/kai-shoo/mapty)                   | Handy app will help you with the records of your trainings: check any place on the map of the city and choose one of the workout options. | HTML, CSS, JavaScript, OOP        |
 | [Mishka](https://github.com/kai-shoo/164863-mishka-21)       | Shop with responsive layout. Mishka sells cute handmade toys and accessories | JavaScript, HTML, LESS, BEM, Gulp |
-| [Pognali](https://github.com/kai-shoo/164863-pognali-21)     | Travelers responsive app prototype that helps you to find new travel-mates. | HTML, SCSS, BEM, JavaScript, Gulp |
 | [TechnoMart](https://github.com/kai-shoo/164863-technomart-29) | Simple shop with slider and map.                             | JavaScript, HTML, CSS             |
